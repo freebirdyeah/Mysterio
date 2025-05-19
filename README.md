@@ -10,7 +10,7 @@
 - ⚖️  **!judge @user** — The truth shall be spoken; judgment is served.
 - 📜 **!wisdom** — Nuggets of timeless wisdom to ponder.
 - 💬 **Reactive Replies** — Chat with Mysterio and get cryptic or witty replies on the fly.
-
+- 🎱 **8-ball** - A weird magic 8-ball reply
 ---
 
 ## How to Use

@@ -30,7 +30,7 @@ Just call upon Mysterio in your Discord server with the bang `!` commands above 
 
 ### Due to the financial brokeness of the creator of this project, I am unable to host this project live anywhere. If you find a suitable hosting platform for this bot, please let me know. 
 
-[Discord bot joining](https://discord.com/oauth2/authorize?client_id=1373682787340517528) (it's a dead bot for now lol0
+[Discord bot joining](https://discord.com/oauth2/authorize?client_id=1373682787340517528) (it's a dead bot for now lol)
 
 I'll probably host this on an RPI Zero sometime
 

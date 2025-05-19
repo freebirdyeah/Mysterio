@@ -21,7 +21,7 @@ Just call upon Mysterio in your Discord server with the bang `!` commands above 
 
 ## Built With
 
-- OpenRouter (for providing LLM responses)
+- OpenRouter (uses **Llama 3.3 8B Instruct** in the back)
 - Discord.py
 
 ---

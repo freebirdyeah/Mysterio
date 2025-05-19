@@ -1,7 +1,7 @@
 import requests, json, os
+from dotenv import load_dotenv
 
-# from dotenv import load_dotenv
-# load_dotenv(): FOR LOCAL ENVIRONMENT
+load_dotenv()
 
 
 ROLE_PROMPT="""

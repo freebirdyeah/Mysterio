@@ -6,16 +6,16 @@
 
 ## Features
 
-- 🔮 **!prophecy @user** — A prophecy tailored just for thee. 
-- ⚖️  **!judge @user** — The truth shall be spoken; judgment is served.
+- 🔮 **!prophecy @user** — A prophecy for you!
+- ⚖️  **!judge @user** — Mysterio serves a judgement!
 - 📜 **!wisdom** — Nuggets of timeless wisdom to ponder.
-- 💬 **Reactive Replies** — Chat with Mysterio and get cryptic or witty replies on the fly.
-- 🎱 **8-ball** - A weird magic 8-ball reply
+- 💬 **@Mysterio [something]** — Chat with Mysterio
+- 🎱 **8-ball** - A cryptic magic 8-ball reply
 ---
 
 ## How to Use
 
-Just call upon Mysterio in your Discord server with the bang `!` commands above or start a conversation — but beware, you never know what you’ll get.
+Just call upon Mysterio in your Discord server with the bang `!` commands above or start a conversation with `@Mysterio`
 
 ---
 

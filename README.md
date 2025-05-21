@@ -10,7 +10,7 @@
 - ⚖️  **!judge @user** — Mysterio serves a judgement!
 - 📜 **!wisdom** — Nuggets of timeless wisdom to ponder.
 - 💬 **@Mysterio [something]** — Chat with Mysterio
-- 🎱 **8-ball** - A cryptic magic 8-ball reply
+- 🎱 **!8ball** - A cryptic magic 8-ball reply
 ---
 
 ## How to Use
